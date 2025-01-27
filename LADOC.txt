@@ -1,0 +1,5 @@
+sudo kubectl get pods -n gitlab
+
+sudo kubectl get svc -n gitlab
+
+http://10.43.234.104:8181/root/sleon.git
